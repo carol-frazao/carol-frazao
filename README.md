@@ -9,7 +9,7 @@
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Carol-picture" height="150" style="border-radius:50px;" src="https://thumbs2.imgbox.com/55/d1/crMVilqG_t.png">
+  <img align="right" alt="Carol-picture" height="150" style="border-radius:50px;" src="https://thumbs2.imgbox.com/df/e1/3QpeZqek_t.png">
 </div>
   
   ##
