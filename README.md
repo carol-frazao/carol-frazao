@@ -13,10 +13,10 @@
   <p align="left">
     🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Figma</strong>.
   </p>
-    
+  <br>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-frazao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-frazao&layout=compact&langs_count=7&theme=dracula"/>
-    
+  <br>
 </div>
   
 <div style="display: inline_block"><br>
