@@ -1,7 +1,6 @@
 ## Oii, eu sou a Carol, bem-vindo(a) ao meu Github! 👋
 <div align="center">
-  <a href="https://github.com/carol-frazao">
-  
+
   <p align="left">
    Sou <strong>desenvolvedora Front-end</strong> e entusiasta de experiência do usuário.
    Atualmente estou focada nos meus estudos de React e desenvolvendo alguns projetos pessoais, como meu portfólio.
@@ -33,5 +32,5 @@
 <div> 
   <a href = "mailto:anacf04@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carol-frazao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://carol-frazao.github.io/meu-portfolio/" target="_blank"><img src="https://i.postimg.cc/Y2bCfW3q/portfolio.png"  style="width: 100px; height: 28px"></a> 
+ <a href="https://carol-frazao.github.io/meu-portfolio/" target="_blank"><img src="https://i.postimg.cc/Y2bCfW3q/portfolio.png"  style="width: 100px; height: 28px">
 </div>
