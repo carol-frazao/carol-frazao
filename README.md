@@ -1,4 +1,4 @@
-## Oii, eu sou a Carol, bem-vindo ao meu Github :)
+## Oii, eu sou a Carol, bem-vindo(a) ao meu Github :)
 <div align="center">
   <a href="https://github.com/carol-frazao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-frazao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,7 +9,7 @@
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Carol-picture" height="150" style="border-radius:50px;" src="https://i.postimg.cc/vTQLRVgZ/art-vetor.png">
+  <img align="right" alt="Carol-picture" height="150" style="border-radius:50px;" src="https://i.postimg.cc/bJGTPBhV/meu-avatar-normal-fundo.png">
 </div>
   
   ##
