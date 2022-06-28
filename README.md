@@ -17,5 +17,5 @@
 <div> 
   <a href = "mailto:anacf04@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carol-frazao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://carol-frazao.github.io/meu-portfolio/" target="_blank"><img src="https://i.postimg.cc/52Py4FXR/portfolio.png" target="_blank" style="width: 100px; height: 28px"></a> 
+ <a href="https://carol-frazao.github.io/meu-portfolio/" target="_blank"><img src="https://i.postimg.cc/52Py4FXR/portfolio.png" style="width: 100px; height: 28px"></a> 
 </div>
