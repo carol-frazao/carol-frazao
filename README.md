@@ -2,8 +2,8 @@
 <div align="center">
 
   <p align="left">
-   Sou <strong>desenvolvedora Front-end</strong> e entusiasta de experiência do usuário.
-   Atualmente estou focada nos meus estudos de React e desenvolvendo alguns projetos pessoais, como meu portfólio.
+   Sou <strong>desenvolvedora Front-end</strong> e entusiasta da experiência do usuário.
+   Atualmente estou focada nos meus estudos e desenvolvendo alguns projetos pessoais, como meu portfólio.
   </p>  
 
   <p align="left">
