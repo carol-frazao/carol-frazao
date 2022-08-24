@@ -7,7 +7,7 @@
   </p>  
 
   <p align="left">
-    🚀 Tecnologias: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React.js</strong>, <strong>Node.js</strong>.
+    🚀 Tecnologias: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Sass</strong>, <strong>React.js</strong>, <strong>Node.js</strong>.
   </p>
 
   <p align="left">
