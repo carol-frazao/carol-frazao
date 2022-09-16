@@ -6,7 +6,7 @@
   </p>  
 
   <p align="left">
-    🚀 Tecnologias: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Sass/Scss</strong>, <strong>React.js</strong>, <strong>Node.js</strong>.
+    🚀 Tecnologias: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Sass/Scss</strong>, <strong>React.js</strong>, <strong>Styled Components</strong>, <strong>Node.js</strong>.
   </p>
 
   <p align="left">
@@ -24,6 +24,7 @@
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
    <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="right" alt="Carol-picture" height="150" style="border-radius:50px;" src="https://i.postimg.cc/QtkpjGzb/meu-avatar-normal-fundo.png">
 </div>
