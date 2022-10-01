@@ -33,7 +33,6 @@
 <div> 
   <a href = "mailto:anacf04@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://www.linkedin.com/in/carol-frazao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> 
- <a href="https://carol-frazao.vercel.app" target="_blank"><img src="https://i.postimg.cc/Y2bCfW3q/portfolio.png" alt="Portfólio" style="width: 100px; max-width: 100px; height: 28px; max-height: 28px">
 </div>
 
 ![snake gif](https://github.com/carol-frazao/carol-frazao/blob/output/github-contribution-grid-snake.svg)
