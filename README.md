@@ -2,7 +2,7 @@
 <div align="center">
 
   <p align="left">
-   Sou <strong>desenvolvedora Front-end</strong>, apaixonada por tecnologia e entusiasta da experiência do usuário.
+   Sou <strong>desenvolvedora Web Full Stack</strong>, apaixonada por tecnologia e entusiasta da experiência do usuário.
   </p>  
 
   <p align="left">
